@@ -33,7 +33,7 @@ Trabalhamos com **dados fictícios gerados via Copilot**, planilhas Excel e cons
 
 ## 📊 Dados Utilizados
 
-Geramos uma base com **200 usuários** distribuídos em quatro empresas fictícias:
+Geramos uma base com **200 usuários** distribuídos em quatro empresas fictícias (Usuários-Cadastrados.xlsx):
 
 - Alpha Tecnologia LTDA
 - Beta Soluções SA
