@@ -26,7 +26,7 @@ Trabalhamos com **dados fictícios gerados via Copilot**, planilhas Excel e cons
 
 ## 👥 Equipe
 
-- [Seu Nome](https://github.com/cientistaarlis) – [Dhene Arlis](mailto:dhenearlis@gmail.com)
+- [Dhene Arlis](mailto:dhenearlis@gmail.com)
 - [Gabriela Veiga Souto](mailto:gabrielaveigasouto@gmail.com)
 - [João Ryan Oliveira](mailto:joao.ryan.oll@gmail.com)
 - [Jéssica Caroline Souza](mailto:jessicarolinesns@gmail.com)
