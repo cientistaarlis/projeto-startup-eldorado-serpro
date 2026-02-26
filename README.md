@@ -1,4 +1,7 @@
 ![Logo da ElserTech](logo.png)
+<p align="center">
+  <img src="logo.png" alt="Logo da ElserTech" width="200"/>
+</p>
 
 Projeto desenvolvido durante a capacitação em **Inteligência Artificial para Empregabilidade**, promovida pelo **Instituto Eldorado de Campinas** em parceria com o **Serpro na Bahia**. O desafio consistiu em criar uma startup fictícia e simular a resposta a um incidente de segurança com dados de clientes.
 
